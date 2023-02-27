@@ -20,7 +20,6 @@
   "devDependencies": {
     "@ember/jquery": "^0.6.0",
     "@ember/optional-features": "^0.7.0",
-    "@ember/test-helpers": "^2.4.0",
     "broccoli-asset-rev": "^3.0.0",
     "ember-ajax": "^5.0.0",
     "ember-cli": "~3.12.0",
@@ -38,15 +37,14 @@
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^2.0.0",
     "ember-maybe-import-regenerator": "^0.1.6",
-    "ember-qunit": "^5.1.5",
+    "ember-qunit": "^4.4.1",
     "ember-resolver": "^5.0.1",
     "ember-source": "~3.12.0",
     "ember-welcome-page": "^4.0.0",
     "eslint-plugin-ember": "^6.2.0",
     "eslint-plugin-node": "^9.0.1",
     "loader.js": "^4.7.0",
-    "qunit": "^2.13.0",
-    "qunit-dom": "^2.0.0"
+    "qunit-dom": "^0.8.4"
   },
   "engines": {
     "node": "8.* || >= 10.*"
